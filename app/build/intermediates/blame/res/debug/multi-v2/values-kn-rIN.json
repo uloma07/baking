@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Uloma\\Documents\\Work\\Progressive\\NanoRestart\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Uloma\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.2.0.aar\\e9c694035939e68f3c5dadd9f5a58c5d\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,139,215,288,358,438,513",
+                        "endColumns": "83,75,72,69,79,74,68",
+                        "endOffsets": "134,210,283,353,433,508,577"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Uloma\\Documents\\Work\\Progressive\\NanoRestart\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Uloma\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\facb08ce4bc491af991caae820aeaa6b\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2513",
+                        "endColumns": "100",
+                        "endOffsets": "2609"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Uloma\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.2.0.aar\\e9c694035939e68f3c5dadd9f5a58c5d\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,205,278,349,428,500",
+                        "endColumns": "74,74,72,70,78,71,65",
+                        "endOffsets": "125,200,273,344,423,495,561"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1917,1992,2067,2140,2211,2290,2362",
+                        "endColumns": "74,74,72,70,78,71,65",
+                        "endOffsets": "1987,2062,2135,2206,2285,2357,2423"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Uloma\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4c2f183edac488a9b4fe6464f5bbf2cc\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,1917",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,1997"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,2428",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,2508"
+                    }
+                }
+            ]
+        }
+    ]
+}

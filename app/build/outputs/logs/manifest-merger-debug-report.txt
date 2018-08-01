@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c2f183edac488a9b4fe6464f5bbf2cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\48088f558c6061ab71577452cb03dacb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\15de1fb9ce407983de509804139c450b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\e9c694035939e68f3c5dadd9f5a58c5d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\7363a9960ec2248ed651e966ffcc5aa6\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2b04125cba577e453e8514160d8255d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ab7994af404469de39f040dce3c9b308\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1be1d52552ed2a04d7a4235c082695a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6ca397aa3212cd81d89a59c2855fc61d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d61ccb650986374de19742034c570575\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\facb08ce4bc491af991caae820aeaa6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9d6b04167881f3eccd5f97eb19c21d52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff45481a9fb8ea90017359aa5b38c99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bbeab2b36a82f141b31c9e0940a75396\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9726dd19d2557cfd910371102c762df2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\48088f558c6061ab71577452cb03dacb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\48088f558c6061ab71577452cb03dacb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\7363a9960ec2248ed651e966ffcc5aa6\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\7363a9960ec2248ed651e966ffcc5aa6\AndroidManifest.xml:24:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.android.bakingapp.MainActivity
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.bakingapp.StepDetailsActivity
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:22:19-54
+activity#com.example.android.bakingapp.RecipeDetailsActivity
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:23:19-56
+receiver#com.example.android.bakingapp.RecipeWidgetProvider
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:25:19-55
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:26:13-28:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:27:17-84
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:27:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:30:13-32:71
+	android:resource
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:31:17-58
+service#com.example.android.bakingapp.Adapters.GridWidgetService
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:35:9-128
+	android:permission
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:35:61-117
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:35:18-60
+service#com.example.android.bakingapp.Services.RecipeIngredientsService
+ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:36:9-135
+	android:permission
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:36:68-124
+	android:name
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml:36:18-67
+uses-sdk
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c2f183edac488a9b4fe6464f5bbf2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c2f183edac488a9b4fe6464f5bbf2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\48088f558c6061ab71577452cb03dacb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\48088f558c6061ab71577452cb03dacb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\15de1fb9ce407983de509804139c450b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\15de1fb9ce407983de509804139c450b\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\e9c694035939e68f3c5dadd9f5a58c5d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\e9c694035939e68f3c5dadd9f5a58c5d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\7363a9960ec2248ed651e966ffcc5aa6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\7363a9960ec2248ed651e966ffcc5aa6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2b04125cba577e453e8514160d8255d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2b04125cba577e453e8514160d8255d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ab7994af404469de39f040dce3c9b308\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ab7994af404469de39f040dce3c9b308\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1be1d52552ed2a04d7a4235c082695a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1be1d52552ed2a04d7a4235c082695a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6ca397aa3212cd81d89a59c2855fc61d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6ca397aa3212cd81d89a59c2855fc61d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d61ccb650986374de19742034c570575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d61ccb650986374de19742034c570575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\facb08ce4bc491af991caae820aeaa6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\facb08ce4bc491af991caae820aeaa6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9d6b04167881f3eccd5f97eb19c21d52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9d6b04167881f3eccd5f97eb19c21d52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff45481a9fb8ea90017359aa5b38c99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff45481a9fb8ea90017359aa5b38c99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bbeab2b36a82f141b31c9e0940a75396\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bbeab2b36a82f141b31c9e0940a75396\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9726dd19d2557cfd910371102c762df2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Uloma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9726dd19d2557cfd910371102c762df2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uloma\Documents\Work\Progressive\NanoRestart\BakingApp\app\src\main\AndroidManifest.xml
